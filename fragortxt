@@ -1,0 +1,18 @@
+Frågor – Slutuppgift
+
+1. Vad är skillnaden mellan IaaS, PaaS och SaaS?
+   IaaS – Infrastructure as a Service, du hyr servar, nätverk, lagring, osv.
+   PaaS – Platform as a Service, DU bygger på en färdig plattform.
+   SaaS – Software as a Service, du änvder ett färdigt programm via internet, du hanterar ingenting tekniskt.
+
+2. Vad gör Git och vad är GitHub?
+Git håller koll på kodens lokala ändring, git är endast LOKALT, medans github är öppet för alla att se.
+
+3. Vad är ett informationssystem?
+   System för att samla hantera och använda information.
+
+4. Vad är CIA-triaden?
+Confidentiality Integrity Availability – Grunderna inom informationssäkerhet.
+
+5. Vad är Continuous Integration (CI)?
+Att automatiskt testa och skriva ny kod löpande för att upptäcka fel/problem.
